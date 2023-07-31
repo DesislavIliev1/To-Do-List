@@ -1,0 +1,49 @@
+body{
+    
+    background-color: #9e9fee;
+}
+
+.form{
+    background-color: rgb(68, 63, 55);
+    padding: 50px;
+    margin: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+}
+
+li{
+    background-color: blueviolet;
+    border-radius: 20px;
+    padding-left: 22px;
+    
+    
+}
+
+.form-check-input{
+  border-radius: 100%;
+}
+
+.remove-btn , .edit-btn, .check-btn{
+    cursor: pointer;
+}
+
+.remove-btn{
+    color: red;
+}
+
+
+.check-btn{
+    color: green;
+}
+
+.checked{
+    background: lightgreen;
+    text-decoration: line-through;
+    transition: .5s
+}
+
+
+
+
+
