@@ -1,3 +1,4 @@
+/* adding custom font and background */
 body{
     font-family: 'Roboto' ;
     font-weight: 500;
@@ -71,6 +72,16 @@ li{
     color:black;
 }
 
+
+
+.edit-input{
+    height:25px;
+    
+
+
+
+    
+}
 
 
 
